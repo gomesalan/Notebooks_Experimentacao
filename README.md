@@ -48,7 +48,7 @@ A consolidação via Meta-Análise de Efeitos Fixos e Aleatórios entre diferent
 
 * **Efeito Combinado Consolidado:** **+1,81% p.p.** na taxa de conversão ($p < 0{,}0001$).
 * **Ausência de Heterogeneidade ($I^2 = 0{,}0\%$ e $\tau^2 = 0{,}0$):** O comportamento do usuário foi uniforme e replicável em todos os contextos testados.
-* **Intervalo de Confiança Combinado:** $[+1{,}25\%, +2{,}37\%]$. O limite inferior positivo garante risco estatístico nulo de perda.
+* **Intervalo de Confiança Combinado:**$[+1{,}25\%, +2{,}37\%]$**. O limite inferior positivo garante risco estatístico nulo de perda.
 
 ---
 
